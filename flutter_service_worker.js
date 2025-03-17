@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "34214a308866118a2e29dc26c68549af",
-"assets/AssetManifest.bin.json": "c6fe8c752bbcff9dd9aef863366cc4de",
-"assets/AssetManifest.json": "d4735b11efd90b62c111ca28a89dde72",
+const RESOURCES = {"assets/AssetManifest.bin": "aad07c5a6a43c56b892c045c10650cf5",
+"assets/AssetManifest.bin.json": "9f09ac656acef3918a0b25e7d7a9b408",
+"assets/AssetManifest.json": "e1fe5b30fb490929757ed0c551b98bf7",
 "assets/assets/lottie/cloudy.json": "d50abd64c3e7eadfd99ffb318d5660fa",
 "assets/assets/lottie/night.json": "58e06e845ffd9d3242f9c0cab8015e6f",
 "assets/assets/lottie/sun.json": "22817b61d75ee9080b823ea8c90f0114",
@@ -30,7 +30,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "34214a308866118a2e29dc26c68549af
 "canvaskit/skwasm_st.wasm": "56c3973560dfcbf28ce47cebe40f3206",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
-"flutter_bootstrap.js": "6a41576a9fd0d37d319233ff7c6a5829",
+"flutter_bootstrap.js": "256f7b2d14b88aab5546d8c74e7be022",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
